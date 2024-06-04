@@ -19,7 +19,7 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '与实用网址',
   HEO_HERO_TITLE_3: '天青色',
   HEO_HERO_TITLE_4: 'celeste',
-  HEO_HERO_TITLE_5: '欢迎来到我的博客',
+  HEO_HERO_TITLE_5: '常给家人打个电话',
   HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
 
   // 英雄区显示三个置顶分类
