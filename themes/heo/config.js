@@ -19,7 +19,7 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '与实用网址',
   HEO_HERO_TITLE_3: '天青色',
   HEO_HERO_TITLE_4: 'celeste',
-  HEO_HERO_TITLE_5: '常给家人打个电话',
+  HEO_HERO_TITLE_5: '我租下了世界，直到我将死去的那天',
   HEO_HERO_TITLE_LINK: 'https://notion-next-rose-phi-51.vercel.app/',
 
   // 英雄区显示三个置顶分类
