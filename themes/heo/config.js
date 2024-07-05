@@ -15,10 +15,10 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '分享知识',
-  HEO_HERO_TITLE_2: '与实用网址',
-  HEO_HERO_TITLE_3: '天青色',
-  HEO_HERO_TITLE_4: 'celeste',
+  HEO_HERO_TITLE_1: 'The past is always',
+  HEO_HERO_TITLE_2: 'given meaning when recalled',
+  HEO_HERO_TITLE_3: 'celeste',
+  HEO_HERO_TITLE_4: '天青色',
   HEO_HERO_TITLE_5: '我租下了世界，直到我将死去的那天.',
   HEO_HERO_TITLE_LINK: 'https://notion-next-rose-phi-51.vercel.app/',
 
