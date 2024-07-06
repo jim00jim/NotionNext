@@ -5,7 +5,7 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://notion-next-rose-phi-51.vercel.app/' },
+    { title: '当知足凌驾于自卑之上，幸福将会贯穿人生', url: 'https://notion-next-rose-phi-51.vercel.app/' },
     { title: '人生苦短，及时行乐', url: 'https://notion-next-rose-phi-51.vercel.app/' }
   ],
 
