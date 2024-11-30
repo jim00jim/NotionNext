@@ -99,7 +99,11 @@ const SocialButton = () => {
           </a>
         )}
         {ENABLE_RSS && (
-          <a target='_blank' rel='noreferrer' title={'RSS'} href={'/feed'}>
+          <a
+            target='_blank'
+            rel='noreferrer'
+            title={'RSS'}
+            href={'/rss/feed.xml'}>
             <i className='transform hover:scale-125 duration-150 fas fa-rss dark:hover:text-green-400 hover:text-green-600' />
           </a>
         )}
@@ -140,6 +144,7 @@ const SocialButton = () => {
             target='_blank'
             rel='noreferrer'
             title={'知识星球'}
+            className='flex justify-center items-center'
             href={CONTACT_ZHISHIXINGQIU}>
             {/* eslint-disable-next-line @next/next/no-img-element */}
             <img
