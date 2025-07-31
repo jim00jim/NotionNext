@@ -1,5 +1,5 @@
 const CONFIG = {
-  HEO_HOME_POST_TWO_COLS: true, // 首页博客两列显示，若为false则只显示一列
+  HEO_HOME_POST_TWO_COLS: false, // 首页博客两列显示，若为false则只显示一列
   HEO_LOADING_COVER: true, // 页面加载的遮罩动画
 
   HEO_HOME_BANNER_ENABLE: true,
@@ -18,8 +18,8 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '藤井',
-  HEO_HERO_TITLE_2: '树',
+  HEO_HERO_TITLE_1: '藤井树',
+  HEO_HERO_TITLE_2: '',
   HEO_HERO_TITLE_3: '',
   HEO_HERO_TITLE_4: '',
   HEO_HERO_TITLE_5: '仅供娱乐',
@@ -28,9 +28,9 @@ const CONFIG = {
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
-  HEO_HERO_CATEGORY_2: { title: '热门文章', url: '/tag/热门文章' },
-  HEO_HERO_CATEGORY_3: { title: '实用教程', url: '/tag/实用教程' },
+  HEO_HERO_CATEGORY_1: { title: '藤', url: '/tag/藤' },
+  HEO_HERO_CATEGORY_2: { title: '井', url: '/tag/井' },
+  HEO_HERO_CATEGORY_3: { title: '树', url: '/tag/树' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',
