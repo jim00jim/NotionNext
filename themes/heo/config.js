@@ -22,7 +22,7 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '',
   HEO_HERO_TITLE_3: '',
   HEO_HERO_TITLE_4: '',
-  HEO_HERO_TITLE_5: '仅供娱乐',
+  HEO_HERO_TITLE_5: '人们总以为自己没走过的路上开满了鲜花',
   HEO_HERO_TITLE_LINK: 'https://gerald.dpdns.org',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
