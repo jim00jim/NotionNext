@@ -113,6 +113,14 @@ const CONFIG = {
       title_2: 'Rhino',
       img_2: 'https://raw.githubusercontent.com/jim00jim/image/refs/heads/main/1758177145409.jpeg',
       color_2: '#ffffff'
+    },
+    {
+      title_1: '1',
+      img_1: 'https://raw.githubusercontent.com/jim00jim/image/refs/heads/main/%E8%A5%BF%E6%A0%BC%E7%8E%9B.png',
+      color_1: '#ffffff',
+      title_2: '2',
+      img_2: 'https://raw.githubusercontent.com/jim00jim/image/refs/heads/main/%E8%96%87%E5%B0%94%E8%8E%89%E7%89%B9.png',
+      color_2: '#ffffff'
     }
   ],
 
