@@ -51,7 +51,7 @@ const CONFIG = {
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '',
-  HEO_HERO_RECOMMEND_POST_SORT_BY_UPDATE_TIME: false, // 推荐文章排序，为`true`时将强制按最后修改时间倒序
+  HEO_HERO_RECOMMEND_POST_SORT_BY_UPDATE_TIME: true, // 推荐文章排序，为`true`时将强制按最后修改时间倒序
   HERO_RECOMMEND_COVER: 'https://raw.githubusercontent.com/jim00jim/image/refs/heads/main/%E5%87%AD%E6%A0%8F%E8%BF%9C%E7%9C%BA.png', // 英雄区右侧图片
 
   // 英雄区右侧推荐文章遮罩控制
